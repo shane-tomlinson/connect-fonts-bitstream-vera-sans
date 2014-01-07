@@ -1,0 +1,32 @@
+{
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-bitstream-vera-sans",
+  "description": "Bitstream Vera Sans font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "vera-bold-italic", "vera-bold", "vera-italic", "vera"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-bitstream-vera-sans",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "Bitstream Vera Sans",
+      "url": "http://www.bitstream.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-bitstream-vera-sans.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shane-tomlinson/connect-fonts-bitstream-vera-sans/issues"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
